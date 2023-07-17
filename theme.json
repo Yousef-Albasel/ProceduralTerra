@@ -1,0 +1,27 @@
+{
+    "defaults":
+    {
+        "colours":
+        {
+            "normal_bg": "white",
+
+            "normal_text": "black",
+
+            "normal_border": "black",
+            "hovered_bg": "#35393e" ,
+            "dark_bg":"white",
+            "selected_bg":"RGB(120, 221, 255)",
+            "hovered_text": "white",
+            "disabled_text": "red",
+            "link_text": "blue"
+
+        },
+        
+        "misc":
+        {
+            "shape":"rounded_rectangle",
+            "shape_corner_radius":2
+        }
+
+    }
+}
