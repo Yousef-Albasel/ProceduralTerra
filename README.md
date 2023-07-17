@@ -24,7 +24,7 @@ This project relies on the following libraries:
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies as specified in the `requirements.txt` file.
+2. Install the required dependencies as specified in the `Dependencies` 
 3. Run the application, and a graphical user interface will appear.
 4. Adjust the parameters like lacunarity, persistence, and the number of octaves to observe their impact on the generated Perlin noise map.
 5. Explore and enjoy creating different maps and islands by experimenting with various seeds.
